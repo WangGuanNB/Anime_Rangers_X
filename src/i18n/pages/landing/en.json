@@ -1,0 +1,513 @@
+{
+  "template": "shipany-template-one",
+  "theme": "light",
+  "header": {
+    "brand": {
+      "title": "Anime Rangers X Tier List",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Anime Rangers X Tier List"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Tier List",
+          "url": "/#feature",
+          "icon": "RiSparkling2Line"
+        },
+        {
+          "title": "Units Guide",
+          "url": "/units",
+          "icon": "RiSwordLine"
+        },
+        {
+          "title": "Strategies",
+          "url": "/strategies",
+          "icon": "RiGamepadLine"
+        },
+        {
+          "title": "Updates",
+          "url": "/updates",
+          "icon": "RiRefreshLine"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "title": "View Tier List",
+        "url": "#tier-list",
+        "target": "_self",
+        "variant": "link",
+        "icon": "RiArrowDownLine"
+      }
+    ],
+    "show_sign": true,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "Ultimate Anime Rangers X Tier List Guide",
+    "highlight_text": "Tier List",
+    "description": "Discover the best units in Anime Rangers X with our comprehensive tier list.<br/>Dominate Story, Boss, Portal, and Raid stages with the strongest characters.",
+    "announcement": {
+      "label": "Updated",
+      "title": "🩸 TYBW 2 + QOL Update",
+      "url": "#tier-list"
+    },
+    "tip": "🎮 Meta units ranked by performance",
+    "buttons": [
+      {
+        "title": "View Tier List",
+        "icon": "RiListCheck3",
+        "url": "#tier-list",
+        "target": "_self",
+        "variant": "default"
+      },
+      {
+        "title": "Unit Guide",
+        "icon": "RiBookOpenLine",
+        "url": "#units-guide",
+        "target": "_self",
+        "variant": "outline"
+      }
+    ],
+    "show_happy_users": true,
+    "show_badge": false
+  },
+  "branding": {
+    "title": "Trusted by Anime Rangers X Community",
+    "items": [
+      {
+        "title": "Roblox",
+        "image": {
+          "src": "/imgs/logos/roblox.svg",
+          "alt": "Roblox"
+        }
+      },
+      {
+        "title": "Tower Defense",
+        "image": {
+          "src": "/imgs/logos/tower-defense.svg",
+          "alt": "Tower Defense"
+        }
+      },
+      {
+        "title": "Anime",
+        "image": {
+          "src": "/imgs/logos/anime.svg",
+          "alt": "Anime"
+        }
+      },
+      {
+        "title": "Gaming",
+        "image": {
+          "src": "/imgs/logos/gaming.svg",
+          "alt": "Gaming"
+        }
+      },
+      {
+        "title": "Strategy",
+        "image": {
+          "src": "/imgs/logos/strategy.svg",
+          "alt": "Strategy"
+        }
+      }
+    ]
+  },
+  "introduce": {
+    "name": "introduce",
+    "title": "What is Anime Rangers X",
+    "label": "Game Overview",
+    "description": "Anime Rangers X is a unique tower defense game on Roblox featuring anime-inspired units with incredible abilities and strategic gameplay.",
+    "image": {
+      "src": "/imgs/features/anime-rangers-x.png"
+    },
+    "items": [
+      {
+        "title": "Strategic Tower Defense",
+        "description": "Deploy powerful anime units to defend against waves of enemies in challenging stages.",
+        "icon": "RiShieldCheckLine"
+      },
+      {
+        "title": "Collectible Units",
+        "description": "Summon Legendary, Mythic, Secret, and Ranger units with unique abilities and stats.",
+        "icon": "RiStarLine"
+      },
+      {
+        "title": "Evolution System",
+        "description": "Evolve your units to unlock their true potential and dominate the battlefield.",
+        "icon": "RiArrowUpCircleLine"
+      }
+    ]
+  },
+  "benefit": {
+    "name": "benefit",
+    "title": "Why Use Our Tier List",
+    "label": "Benefits",
+    "description": "Make informed decisions about which units to summon and invest in with our comprehensive tier rankings.",
+    "items": [
+      {
+        "title": "Meta Analysis",
+        "description": "Units ranked based on performance in Story, Boss, Portal, and Raid stages with detailed testing.",
+        "icon": "RiBarChart2Line",
+        "image": {
+          "src": "/imgs/features/meta-analysis.png"
+        }
+      },
+      {
+        "title": "Complete Unit Database",
+        "description": "Detailed information on HP, DPS, Range, Speed, abilities, and upgrade costs for every unit.",
+        "icon": "RiDatabase2Line",
+        "image": {
+          "src": "/imgs/features/unit-database.png"
+        }
+      },
+      {
+        "title": "Strategic Guidance",
+        "description": "Best traits, obtainment methods, and tactical advice for maximizing your team's potential.",
+        "icon": "RiCompassLine",
+        "image": {
+          "src": "/imgs/features/strategy-guide.png"
+        }
+      }
+    ]
+  },
+  "usage": {
+    "name": "usage",
+    "title": "How to Use This Tier List",
+    "description": "Master Anime Rangers X with our step-by-step guide:",
+    "image": {
+      "src": "/imgs/features/tier-list-guide.png"
+    },
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "Check Unit Rankings",
+        "description": "Browse our tier list to see which units are currently meta and worth investing in.",
+        "image": {
+          "src": "/imgs/features/check-rankings.png"
+        }
+      },
+      {
+        "title": "Plan Your Summons",
+        "description": "Use our gem farming guide and summon recommendations to get the best units efficiently.",
+        "image": {
+          "src": "/imgs/features/plan-summons.png"
+        }
+      },
+      {
+        "title": "Optimize Your Team",
+        "description": "Learn about unit synergies, best traits, and positioning strategies for maximum effectiveness.",
+        "image": {
+          "src": "/imgs/features/optimize-team.png"
+        }
+      },
+      {
+        "title": "Dominate Stages",
+        "description": "Apply your knowledge to clear the toughest content and climb the leaderboards.",
+        "image": {
+          "src": "/imgs/features/dominate-stages.png"
+        }
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "Tier List Features",
+    "description": "Everything you need to master Anime Rangers X unit selection and strategy.",
+    "items": [
+      {
+        "title": "Meta Tier Rankings",
+        "description": "Soul King, Vampire Emperor (Heaven), Crimson Owl, and other top-tier units ranked by performance.",
+        "icon": "RiTrophyLine"
+      },
+      {
+        "title": "Detailed Unit Stats",
+        "description": "Complete breakdown of HP, DPS, Range, Speed, and ability damage for informed decisions.",
+        "icon": "RiBarChart2Line"
+      },
+      {
+        "title": "Obtainment Guide",
+        "description": "Learn how to get Secret units from Ranger Stages, Boss events, and Portal challenges.",
+        "icon": "RiMapPinLine"
+      },
+      {
+        "title": "Evolution Strategies",
+        "description": "Master the evolution system to upgrade your units' stats and unlock new abilities.",
+        "icon": "RiArrowUpCircleLine"
+      },
+      {
+        "title": "Gem Farming Tips",
+        "description": "Efficient methods to farm gems from Story Stages, Quests, Events, and Infinite Castle.",
+        "icon": "RiCoinLine"
+      },
+      {
+        "title": "Best Traits Guide",
+        "description": "Optimal trait combinations like Sovereign, Duplicator, Capitalist, and Seraph for each unit.",
+        "icon": "RiStarLine"
+      }
+    ]
+  },
+  "stats": {
+    "name": "stats",
+    "label": "Stats",
+    "title": "Anime Rangers X by the Numbers",
+    "description": "Join thousands of players using our tier list.",
+    "icon": "FaRegHeart",
+    "items": [
+      {
+        "title": "Units Ranked",
+        "label": "100+",
+        "description": "Characters"
+      },
+      {
+        "title": "Tier Categories",
+        "label": "7",
+        "description": "Rankings"
+      },
+      {
+        "title": "Updated",
+        "label": "Weekly",
+        "description": "Fresh Meta"
+      }
+    ]
+  },
+  "testimonial": {
+    "name": "testimonial",
+    "label": "Community",
+    "title": "What Players Say About Our Tier List",
+    "description": "Hear from Anime Rangers X players who improved their gameplay with our rankings.",
+    "icon": "GoThumbsup",
+    "items": [
+      {
+        "title": "Alex_Gamer2024",
+        "label": "Top 100 Player",
+        "description": "This tier list helped me understand which units to prioritize. Finally cleared Infinite Castle thanks to the meta recommendations!",
+        "image": {
+          "src": "/imgs/users/player1.png"
+        }
+      },
+      {
+        "title": "SakuraDefender",
+        "label": "Guild Leader",
+        "description": "The detailed unit analysis is incredible. Knowing the exact DPS and range stats helped me optimize my team composition perfectly.",
+        "image": {
+          "src": "/imgs/users/player2.png"
+        }
+      },
+      {
+        "title": "AnimeRanger_Pro",
+        "label": "Content Creator",
+        "description": "I use this tier list for all my videos. The obtainment guides and trait recommendations are spot-on for the current meta.",
+        "image": {
+          "src": "/imgs/users/player3.png"
+        }
+      },
+      {
+        "title": "TowerMaster99",
+        "label": "Raid Champion",
+        "description": "Soul King and Vampire Emperor recommendations were game-changers. Went from struggling in raids to topping leaderboards!",
+        "image": {
+          "src": "/imgs/users/player4.png"
+        }
+      },
+      {
+        "title": "F2P_Winner",
+        "label": "Free-to-Play Expert",
+        "description": "The gem farming strategies helped me get meta units without spending money. Best resource for F2P players like me!",
+        "image": {
+          "src": "/imgs/users/player5.png"
+        }
+      },
+      {
+        "title": "PortalCrusher",
+        "label": "Portal Specialist",
+        "description": "Crimson Owl from Ghoul City Portal was exactly what I needed. This tier list knows the meta better than anyone!",
+        "image": {
+          "src": "/imgs/users/player6.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "FAQ",
+    "title": "Frequently Asked Questions",
+    "description": "Have questions about Anime Rangers X? We've got answers.",
+    "items": [
+      {
+        "title": "What are the best DPS units in Anime Rangers X?",
+        "description": "Currently, the best DPS units are Soul King, Vampire Emperor (Heaven), Priest of Heaven, Shadowborne, Crimson Owl, Blood Queen, The Almighty, Cursed Love, Solar Fist, Bunny (Full Moon), and Shin (Reverse)."
+      },
+      {
+        "title": "How do you get Secret and Ranger units?",
+        "description": "You can get Secret and Ranger units by completing Ranger Stages, from limited Boss Battle events, Tournaments, Portals, by opening Event Capsules, and by being in the AFK lobby."
+      },
+      {
+        "title": "What are the best Mythic units?",
+        "description": "The best mythic ARX units are Golden Will (Requiem), Knight King (Chaos), Erase King (Requiem), Blood Scythe, and Feral Fang."
+      },
+      {
+        "title": "Which units are best for beginners?",
+        "description": "The best beginner Legendary units are Otaku, Silent Sting, Doctor Pirate, Shadow Reaver, and Light Admiral. The best epic units are Cyborg, Demon Slayer, and Hero on Wheels."
+      },
+      {
+        "title": "How often is the tier list updated?",
+        "description": "Our tier list is updated regularly with each major game update, including balance changes, new unit releases, and meta shifts. We test all units in current endgame content to ensure accurate rankings."
+      },
+      {
+        "title": "What criteria do you use for ranking units?",
+        "description": "Units are ranked based on HP, DPS (Damage/Cooldown), Range, Speed, Ability Damage, Upgrade costs, and Passives. We test units in Story, Boss, Portal, and Raid stages at maximum level without traits."
+      }
+    ]
+  },
+  "cta": {
+    "name": "cta",
+    "title": "Master Anime Rangers X Today",
+    "description": "Start dominating with the best units and strategies.",
+    "buttons": [
+      {
+        "title": "View Full Tier List",
+        "url": "#tier-list",
+        "target": "_self",
+        "icon": "RiListCheck3"
+      },
+      {
+        "title": "Join Community",
+        "url": "https://discord.gg/anime-rangers-x",
+        "target": "_blank",
+        "variant": "outline"
+      }
+    ]
+  },
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "Anime Rangers X Tier List",
+      "description": "The ultimate resource for Anime Rangers X unit rankings, strategies, and guides. Master the meta and dominate every stage.",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "Anime Rangers X Tier List"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • Anime Rangers X Tier List. All rights reserved.",
+    "nav": {
+      "items": [
+        {
+          "title": "Game Modes",
+          "children": [
+            {
+              "title": "Story Stages",
+              "url": "/story",
+              "target": "_self"
+            },
+            {
+              "title": "Boss Battles",
+              "url": "/boss",
+              "target": "_self"
+            },
+            {
+              "title": "Portal Challenges",
+              "url": "/portal",
+              "target": "_self"
+            },
+            {
+              "title": "Raid Content",
+              "url": "/raids",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Resources",
+          "children": [
+            {
+              "title": "Unit Database",
+              "url": "/units",
+              "target": "_self"
+            },
+            {
+              "title": "Evolution Guide",
+              "url": "/evolution",
+              "target": "_self"
+            },
+            {
+              "title": "Gem Farming",
+              "url": "/gems",
+              "target": "_self"
+            },
+            {
+              "title": "Traits Guide",
+              "url": "/traits",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Community",
+          "children": [
+            {
+              "title": "Discord",
+              "url": "https://discord.gg/anime-rangers-x",
+              "target": "_blank"
+            },
+            {
+              "title": "Reddit",
+              "url": "https://reddit.com/r/animerangersx",
+              "target": "_blank"
+            },
+            {
+              "title": "YouTube",
+              "url": "https://youtube.com/animerangersx",
+              "target": "_blank"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "Discord",
+          "icon": "RiDiscordFill",
+          "url": "https://discord.gg/anime-rangers-x",
+          "target": "_blank"
+        },
+        {
+          "title": "Reddit",
+          "icon": "RiRedditFill",
+          "url": "https://reddit.com/r/animerangersx",
+          "target": "_blank"
+        },
+        {
+          "title": "YouTube",
+          "icon": "RiYoutubeFill",
+          "url": "https://youtube.com/animerangersx",
+          "target": "_blank"
+        },
+        {
+          "title": "Twitter",
+          "icon": "RiTwitterXFill",
+          "url": "https://twitter.com/animerangersx",
+          "target": "_blank"
+        }
+      ]
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "Terms of Service",
+          "url": "/terms-of-service"
+        }
+      ]
+    }
+  }
+}
