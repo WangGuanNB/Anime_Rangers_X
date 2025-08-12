@@ -1,15 +1,15 @@
 {
   "metadata": {
-    "title": "Ship Any AI SaaS Startups in hours | ShipAny",
-    "description": "ShipAny is a NextJS boilerplate for building AI SaaS startups, Ship Fast with a variety of templates and components.",
-    "keywords": "ShipAny, AI SaaS Boilerplate, NextJS Boilerplate"
+    "title": "Anime Rangers X Tier List & Strategy Guide | Master the Ultimate Tower Defense",
+    "description": "Complete Anime Rangers X guide with tier lists, character builds, strategies, and redemption codes. Master this epic Roblox tower defense game with our expert resources.",
+    "keywords": "Anime Rangers X, Tier List, Strategy Guide, Roblox Tower Defense, Character Builds, Redemption Codes"
   },
   "user": {
     "sign_in": "Sign In",
     "sign_out": "Sign Out",
     "credits": "Credits",
     "api_keys": "API Keys",
-    "my_orders": "My Orders",
+    "my_orders": "My Guides",
     "user_center": "User Center",
     "admin_system": "Admin System"
   },
@@ -33,21 +33,21 @@
     "cancel_title": "Cancel"
   },
   "my_orders": {
-    "title": "My Orders",
-    "description": "orders paid with ShipAny.",
-    "no_orders": "No orders found",
-    "tip": "",
-    "activate_order": "Activate Order",
-    "actived": "Activated",
-    "join_discord": "Join Discord",
-    "read_docs": "Read Docs",
+    "title": "My Saved Guides",
+    "description": "Your bookmarked Anime Rangers X guides and tier lists.",
+    "no_orders": "No saved guides found",
+    "tip": "Save your favorite strategies and tier lists for quick access",
+    "activate_order": "View Guide",
+    "actived": "Bookmarked",
+    "join_discord": "Join Community",
+    "read_docs": "View Strategies",
     "table": {
-      "order_no": "Order No",
+      "order_no": "Guide ID",
       "email": "Email",
-      "product_name": "Product Name",
-      "amount": "Amount",
-      "paid_at": "Paid At",
-      "github_username": "GitHub Username",
+      "product_name": "Guide Name",
+      "amount": "Type",
+      "paid_at": "Saved At",
+      "github_username": "Category",
       "status": "Status"
     }
   },
@@ -81,45 +81,45 @@
     }
   },
   "blog": {
-    "title": "Blog",
-    "description": "News, resources, and updates about ShipAny",
-    "read_more_text": "Read More"
+    "title": "Strategy Blog",
+    "description": "Latest Anime Rangers X strategies, updates, and meta analysis",
+    "read_more_text": "Read Strategy"
   },
   "my_invites": {
-    "title": "My Invites",
-    "description": "View your invite records",
-    "no_invites": "No invite records found",
-    "my_invite_link": "My Invite Link",
-    "edit_invite_link": "Edit Invite Link",
-    "copy_invite_link": "Copy Invite Link",
-    "invite_code": "Invite Code",
-    "invite_tip": "Invite 1 friend to buy ShipAny, reward $50.",
-    "invite_balance": "Invite Reward Balance",
-    "total_invite_count": "Total Invite Count",
-    "total_paid_count": "Total Paid Count",
-    "total_award_amount": "Total Award Amount",
-    "update_invite_code": "Set Invite Code",
-    "update_invite_code_tip": "Input your custom invite code",
+    "title": "Community Referrals",
+    "description": "Share Anime Rangers X guides with friends",
+    "no_invites": "No referral records found",
+    "my_invite_link": "My Referral Link",
+    "edit_invite_link": "Edit Referral Link",
+    "copy_invite_link": "Copy Referral Link",
+    "invite_code": "Referral Code",
+    "invite_tip": "Share our Anime Rangers X guides and earn community points!",
+    "invite_balance": "Community Points Balance",
+    "total_invite_count": "Total Referrals",
+    "total_paid_count": "Active Users Referred",
+    "total_award_amount": "Total Points Earned",
+    "update_invite_code": "Set Referral Code",
+    "update_invite_code_tip": "Create your custom referral code",
     "update_invite_button": "Save",
-    "no_orders": "You can't invite others before you bought ShipAny",
-    "no_affiliates": "You're not allowed to invite others, please contact us to apply for permission.",
+    "no_orders": "Join our community to start referring friends",
+    "no_affiliates": "Referral program not available, please contact us for more information.",
     "table": {
-      "invite_time": "Invite Time",
-      "invite_user": "Invite User",
+      "invite_time": "Referral Time",
+      "invite_user": "Referred User",
       "status": "Status",
-      "reward_percent": "Reward Percent",
-      "reward_amount": "Reward Amount",
+      "reward_percent": "Points Percent",
+      "reward_amount": "Points Earned",
       "pending": "Pending",
       "completed": "Completed"
     }
   },
   "feedback": {
     "title": "Feedback",
-    "description": "We'd love to hear what went well or how we can improve the product experience.",
+    "description": "Help us improve our Anime Rangers X guides and strategies. Share your thoughts and suggestions!",
     "submit": "Submit",
     "loading": "Submitting...",
     "contact_tip": "Other ways to contact us",
-    "rating_tip": "How do you feel about ShipAny?",
-    "placeholder": "Leave your words here..."
+    "rating_tip": "How helpful are our Anime Rangers X guides?",
+    "placeholder": "Share your feedback about our tier lists, strategies, or suggestions for new content..."
   }
 }
