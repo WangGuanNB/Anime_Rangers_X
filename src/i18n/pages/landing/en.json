@@ -344,76 +344,76 @@
   "_backup_footer_nav": {
     "note": "Temporarily disabled footer navigation - restore when needed",
     "nav_items": [
-      {
-        "title": "Game Modes",
-        "children": [
-          {
-            "title": "Story Stages",
-            "url": "/story",
-            "target": "_self"
-          },
-          {
-            "title": "Boss Battles",
-            "url": "/boss",
-            "target": "_self"
-          },
-          {
-            "title": "Portal Challenges",
-            "url": "/portal",
-            "target": "_self"
-          },
-          {
-            "title": "Raid Content",
-            "url": "/raids",
-            "target": "_self"
-          }
-        ]
-      },
-      {
-        "title": "Resources",
-        "children": [
-          {
-            "title": "Unit Database",
-            "url": "/units",
-            "target": "_self"
-          },
-          {
-            "title": "Evolution Guide",
-            "url": "/evolution",
-            "target": "_self"
-          },
-          {
-            "title": "Gem Farming",
-            "url": "/gems",
-            "target": "_self"
-          },
-          {
-            "title": "Traits Guide",
-            "url": "/traits",
-            "target": "_self"
-          }
-        ]
-      },
-      {
-        "title": "Community",
-        "children": [
-          {
-            "title": "Discord",
-            "url": "https://discord.gg/anime-rangers-x",
-            "target": "_blank"
-          },
-          {
-            "title": "Reddit",
-            "url": "https://reddit.com/r/animerangersx",
-            "target": "_blank"
-          },
-          {
-            "title": "YouTube",
-            "url": "https://youtube.com/animerangersx",
-            "target": "_blank"
-          }
-        ]
-      }
-    ]
+        {
+          "title": "Game Modes",
+          "children": [
+            {
+              "title": "Story Stages",
+              "url": "/story",
+              "target": "_self"
+            },
+            {
+              "title": "Boss Battles",
+              "url": "/boss",
+              "target": "_self"
+            },
+            {
+              "title": "Portal Challenges",
+              "url": "/portal",
+              "target": "_self"
+            },
+            {
+              "title": "Raid Content",
+              "url": "/raids",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Resources",
+          "children": [
+            {
+              "title": "Unit Database",
+              "url": "/units",
+              "target": "_self"
+            },
+            {
+              "title": "Evolution Guide",
+              "url": "/evolution",
+              "target": "_self"
+            },
+            {
+              "title": "Gem Farming",
+              "url": "/gems",
+              "target": "_self"
+            },
+            {
+              "title": "Traits Guide",
+              "url": "/traits",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Community",
+          "children": [
+            {
+              "title": "Discord",
+              "url": "https://discord.gg/anime-rangers-x",
+              "target": "_blank"
+            },
+            {
+              "title": "Reddit",
+              "url": "https://reddit.com/r/animerangersx",
+              "target": "_blank"
+            },
+            {
+              "title": "YouTube",
+              "url": "https://youtube.com/animerangersx",
+              "target": "_blank"
+            }
+          ]
+        }
+      ]
   }
 }
