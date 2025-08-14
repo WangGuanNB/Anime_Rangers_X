@@ -11,7 +11,13 @@
       "url": "/"
     },
     "nav": {
-      "items": []
+      "items": [
+        {
+          "title": "Blog",
+          "url": "/strategies",
+          "icon": "RiBookOpenLine"
+        }
+      ]
     },
     "buttons": [
       {
@@ -29,7 +35,7 @@
         "icon": "RiDiscordLine"
       }
     ],
-    "show_sign": false,
+    "show_sign": true,
     "show_theme": false,
     "show_locale": false
   },
@@ -273,23 +279,23 @@
       ]
     }
   },
-  "_backup_nav_items": {
+  "backup_nav_items": {
     "note": "Temporarily disabled navigation items - restore when needed",
     "items": [
       {
-        "title": "🎁 Codes",
-        "url": "/codes",
-        "icon": "RiGiftLine"
+        "_title": "🎁 Codes",
+        "_url": "/codes",
+        "_icon": "RiGiftLine"
       },
       {
-        "title": "Tier List",
-        "url": "/#feature",
-        "icon": "RiSparkling2Line"
+        "_title": "Tier List",
+        "_url": "/#feature",
+        "_icon": "RiSparkling2Line"
       },
       {
-        "title": "Characters",
-        "url": "/units",
-        "icon": "RiSwordLine"
+        "_title": "Characters",
+        "_url": "/units",
+        "_icon": "RiSwordLine"
       },
       {
         "title": "Blog",
