@@ -24,7 +24,6 @@ export default async function RootLayout({
         )}
 
         <link rel="icon" href="/favicon.ico" />
-        <meta name="_foundr" content="8a3548ac663adf63236b60ae575c6de7" />
 
         {locales &&
           locales.map((loc) => (
