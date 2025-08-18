@@ -158,4 +158,8 @@ npm start
 
 ---
 
+<<<<<<< HEAD
 **免责声明**: 本项目为非官方网站，与 Roblox Corporation 或 Anime Rangers X 开发团队无直接关联。所有游戏相关内容的版权归其各自所有者所有。
+=======
+**免责声明**: 本项目为非官方网站，与 Roblox Corporation 或 Anime Rangers X 开发团队无直接关联。所有游戏相关内容的版权归其各自所有者所有。
+>>>>>>> 2a4add1fc5c3a5c70da4f2330e5cd9dd9366a446
