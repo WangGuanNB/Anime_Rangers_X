@@ -1,4 +1,5 @@
 # Anime Rangers X Website
+https://animerangersx.net
 
 一个专为 Roblox 游戏《Anime Rangers X》打造的综合性网站，提供游戏指南、角色信息、攻略和社区资源。
 
