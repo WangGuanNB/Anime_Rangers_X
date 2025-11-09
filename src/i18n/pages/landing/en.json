@@ -299,7 +299,7 @@
       },
       {
         "title": "Blog",
-        "url": "/strategies",
+        "url": "/posts",
         "icon": "RiBookOpenLine"
       }
     ]
@@ -404,18 +404,28 @@
           "title": "Community",
           "children": [
             {
-              "title": "Discord",
-              "url": "https://discord.gg/anime-rangers-x",
+              "title": "Circle of Fifths",
+              "url": "https://circle-fifths.com/",
               "target": "_blank"
             },
             {
-              "title": "Reddit",
-              "url": "https://reddit.com/r/animerangersx",
+              "title": "graffiti-generator",
+              "url": "https://graffiti-generator.org/",
               "target": "_blank"
             },
             {
-              "title": "YouTube",
-              "url": "https://youtube.com/animerangersx",
+              "title": "wplaceart",
+              "url": "https://wplaceart.com/",
+              "target": "_blank"
+            },
+            {
+              "title": "LinkedIn Pinpoint",
+              "url": "https://pinpointanswer.net/",
+              "target": "_blank"
+            },
+            {
+              "title": "love-mbti",
+              "url": "https://love-mbti.com/",
               "target": "_blank"
             }
           ]
