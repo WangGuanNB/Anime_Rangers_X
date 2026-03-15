@@ -403,11 +403,7 @@
         {
           "title": "Community",
           "children": [
-            {
-              "title": "Circle of Fifths",
-              "url": "https://circle-fifths.com/",
-              "target": "_blank"
-            },
+          
             {
               "title": "graffiti-generator",
               "url": "https://graffiti-generator.org/",
@@ -418,29 +414,21 @@
               "url": "https://wplaceart.com/",
               "target": "_blank"
             },
-            {
-              "title": "LinkedIn Pinpoint",
-              "url": "https://pinpointanswer.net/",
-              "target": "_blank"
-            },
+           
             {
               "title": "love-mbti",
               "url": "https://love-mbti.com/",
               "target": "_blank"
             },
-            {
-              "title": "pdf to video",
-              "url": "https://pdfvideo.org/",
-              "target": "_blank"
-            },
-            {
-              "title": "numerologycalculators",
-              "url": "https://numerologycalculators.org",
-              "target": "_blank"
-            },
+           
             {
               "title": "matrix-destiny",
               "url": "https://matrix-destiny.net",
+              "target": "_blank"
+            },
+            {
+              "title": "mFireRed",
+              "url": "https://fireredimage.org/",
               "target": "_blank"
             }
           ]
