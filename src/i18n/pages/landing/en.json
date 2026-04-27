@@ -435,6 +435,16 @@
               "title": "mFireRed",
               "url": "https://fireredimage.org/",
               "target": "_blank"
+            },
+            {
+              "title": "Transit Chart",
+              "url": "https://transitchart.org",
+              "target": "_blank"
+            },
+            {
+              "title": "Astrology Compatibility",
+              "url": "https://astrologycompatibility.org",
+              "target": "_blank"
             }
           ]
         }
